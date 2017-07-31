@@ -1,0 +1,29 @@
+[33mcommit 4701407ad9306c91e0dd533ea088372f80fef529[m
+Author: zhangliang <1078960648@qq.com>
+Date:   Mon Jul 31 10:29:39 2017 +0800
+
+    git tracks changes
+
+[33mcommit eb493c1d949294699de6087b7674fac1de19b1bc[m
+Author: zhangliang <1078960648@qq.com>
+Date:   Mon Jul 31 10:27:00 2017 +0800
+
+    test how stage works
+
+[33mcommit 98a68dee9555af9327e8080d4e4d84a82749ce1a[m
+Author: zhangliang <1078960648@qq.com>
+Date:   Mon Jul 31 10:05:57 2017 +0800
+
+    add test two
+
+[33mcommit 6a05a2efa237aed694470df89ff6267e5158dc19[m
+Author: zhangliang <1078960648@qq.com>
+Date:   Mon Jul 31 10:03:33 2017 +0800
+
+    add test one
+
+[33mcommit 0e8d8e5193303482c4320f466b8c56c8dfa544e1[m
+Author: zhangliang <1078960648@qq.com>
+Date:   Mon Jul 31 09:57:32 2017 +0800
+
+    write a readme file
